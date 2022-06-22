@@ -69,6 +69,7 @@ This product is open source and free, and will continue to provide free communit
 
 产品开源免费，并且将持续提供免费的社区技术支持。个人或企业内部可自由的接入和使用。
 
+https://codingdict.com/os/software/44106
 
 ## Donate
 No matter how much the amount is enough to express your thought, thank you very much ：）     [To donate](http://www.xuxueli.com/page/donate.html )
