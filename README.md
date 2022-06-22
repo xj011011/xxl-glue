@@ -71,6 +71,9 @@ This product is open source and free, and will continue to provide free communit
 
 https://codingdict.com/os/software/44106
 
+<img width="718" alt="28120739_AEeQ" src="https://user-images.githubusercontent.com/57672015/174974427-52a86cae-84af-4956-b1e1-3ae45e149430.png">
+
+
 ## Donate
 No matter how much the amount is enough to express your thought, thank you very much ：）     [To donate](http://www.xuxueli.com/page/donate.html )
 
